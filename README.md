@@ -21,8 +21,9 @@ Hardware list :
 - Switch (S1) : WS-C2950T-24
 - Wireless Access Point (AP) : AIR-CAP2702E-E-K9
 
-**“Autonomous AP IOS Software” mode (without Wi-Fi controllers).
+Autonomous AP IOS Software” mode (without Wi-Fi controllers).
 - Firmware version: `ap3g2-k9w7-tar.153-3.JF10.tar`**
+
 
 
 
