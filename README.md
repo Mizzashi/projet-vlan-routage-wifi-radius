@@ -25,10 +25,6 @@ Hardware list :
 Autonomous AP IOS Software” mode (without Wi-Fi controllers).
 - Firmware version: `ap3g2-k9w7-tar.153-3.JF10.tar`**
 
-
-
-
-
 ![Schéma réseau](Diagramme%20TP-Wifi.jpg)
 
 
