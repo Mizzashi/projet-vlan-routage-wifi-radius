@@ -20,13 +20,11 @@ Hardware list :
 - Router (R1) : Cisco1841
 - Switch (S1) : WS-C2950T-24
 - Wireless Access Point (AP) : AIR-CAP2702E-E-K9
+- LXC with Radius server on Proxmox VE hypervisor
+- POE injector
 
 Autonomous AP IOS Software” mode (without Wi-Fi controllers).
 - Firmware version: `ap3g2-k9w7-tar.153-3.JF10.tar`**
-
-
-
-
 
 ![Schéma réseau](Diagramme%20TP-Wifi.jpg)
 
